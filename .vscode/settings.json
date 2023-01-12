@@ -1,0 +1,5 @@
+//setting de su dung extension prettierrc
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
